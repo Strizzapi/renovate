@@ -1896,12 +1896,12 @@
   resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.0.0.tgz#c9faec210d3eefed9c556f796dc1ff00ab55c979"
   integrity sha512-9dw67KZW+k1VzzlScH10/4ukaqyYR8TQm3QHBD4EkbUt2NPYlalXvdIjvx9tk15h4xubglDgYpsEMQkfEHMbvA==
 
-"@renovatebot/ruby-semver@1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-1.1.2.tgz#ffc4d751c41dc7d256858de746f6afdddb87d482"
-  integrity sha512-qFIqLwJgasTQbVchq08ShNwOWn3LqzMiESmzD8OTO8sghYRFY365luQ8TAaQveuQbJ50k0FKMTJ/kcr2Vc2tiA==
+"@renovatebot/ruby-semver@1.1.8":
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-1.1.8.tgz#1690f950ad13910d4bb12ad345708246df782b4d"
+  integrity sha512-e8eDI+Xq1mizLiQenjCqmG/cY739iY0SeY3u/3kHlhZsMo4D+htaKYOpHa8YfzSn3DvUmMMBpQQit4yOth/ksA==
   dependencies:
-    tslib "2.3.1"
+    tslib "2.4.1"
 
 "@semantic-release/commit-analyzer@^9.0.2":
   version "9.0.2"
@@ -9025,6 +9025,11 @@ tslib@2.3.1, tslib@^2.1.0, tslib@^2.3.0, tslib@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
+
+tslib@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
+  integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
 
 tslib@^1.11.1, tslib@^1.13.0, tslib@^1.8.1:
   version "1.14.1"
